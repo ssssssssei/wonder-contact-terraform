@@ -175,3 +175,7 @@ flowchart TD
 - フロントエンドのCORS設定を確認すること
 - SESはデフォルトでサンドボックス環境のため、検証済みメールアドレスのみに送信可能
 - APIエンドポイントのセキュリティを確保するため、適切な認証を検討すること
+- #### 連絡先
+蔡：inje.sai@onewonder.co.jp</br>
+
+王：xingran.wang@onewonder.co.jp
